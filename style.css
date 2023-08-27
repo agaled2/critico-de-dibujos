@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+
+}
+
+h1,h3{
+    background-color: chartreuse;
+    border-style: groove;
+    border-radius: 24px;
+    width: fit-content;
+    margin: 20px auto !important;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding:0 25px ;
+}
+
+h1:hover{
+    background-color: cornflowerblue;
+}
